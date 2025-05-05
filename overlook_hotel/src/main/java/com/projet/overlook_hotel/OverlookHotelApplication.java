@@ -8,6 +8,7 @@ public class OverlookHotelApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OverlookHotelApplication.class, args);
+
 	}
 
 }
