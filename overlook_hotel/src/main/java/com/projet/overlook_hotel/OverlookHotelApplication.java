@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class OverlookHotelApplication {
-	{for (int i = 1; i <= 5; i++) {
+	{for (int i = 1; i <= 7; i++) {
 		System.out.println("Compteur : " + i);
 		}
 	}
