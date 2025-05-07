@@ -4,14 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="369871e1-d938-4a89-ac05-47de62fdc822" name="Changes" comment="[DELETE] former version">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="d1d51b86-7c78-440f-a617-d2e2992ce35c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_07_05_2025_15_15_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_07_05_2025_15_15__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,86 +23,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="main" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;history&quot;: [
-    {
-      &quot;state&quot;: &quot;OPEN&quot;
-    }
-  ],
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;
-  }
-}</component>
-  <component name="GithubProjectSettings">
-    <option name="branchProtectionPatterns">
-      <list>
-        <option value="main" />
-      </list>
-    </option>
-  </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/barbara-vanni/overlook_hotel.git&quot;,
-    &quot;accountId&quot;: &quot;b9b2f078-5bd2-4423-a25f-bb196a62e80e&quot;
-  }
-}</component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
-}</component>
-  <component name="ProjectId" id="2wg0ClNLJg3fnqrFiS6xdn36org" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2wlxy0849wTB4zcdenPJABkI0Ej" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Maven.overlook_hotel [clean].executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.OverlookHotelApplication.executor": "Run",
-    "git-widget-placeholder": "bv",
+    "git-widget-placeholder": "walid",
     "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/walid/OneDrive/Bureau/la-plateforme/B2/devoirs/Java/overlook_hotel",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "npm.start.executor": "Run",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\drvba\OneDrive\Documents\Dev\overlook_hotel\overlook_hotel\backend" />
-      <recent name="C:\Users\drvba\OneDrive\Documents\Dev\overlook_hotel\overlook_hotel" />
-      <recent name="C:\Users\drvba\OneDrive\Documents\Dev\overlook_hotel" />
-    </key>
-  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="overlook_hotel" />
@@ -128,107 +73,18 @@
       </set>
     </attachedChunks>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="369871e1-d938-4a89-ac05-47de62fdc822" name="Changes" comment="" />
-      <created>1746447783643</created>
+      <changelist id="d1d51b86-7c78-440f-a617-d2e2992ce35c" name="Changes" comment="" />
+      <created>1746630212138</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1746447783643</updated>
-      <workItem from="1746447784680" duration="2315000" />
-      <workItem from="1746451367560" duration="10634000" />
-      <workItem from="1746542171753" duration="153000" />
-      <workItem from="1746608993165" duration="362000" />
-      <workItem from="1746609366598" duration="165000" />
-      <workItem from="1746609539948" duration="1280000" />
-      <workItem from="1746625123537" duration="699000" />
-      <workItem from="1746625862493" duration="172000" />
-      <workItem from="1746626061081" duration="854000" />
-      <workItem from="1746626919423" duration="850000" />
+      <updated>1746630212138</updated>
+      <workItem from="1746630213956" duration="59000" />
     </task>
-    <task id="LOCAL-00001" summary="Initial commit">
-      <option name="closed" value="true" />
-      <created>1746451387120</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1746451387120</updated>
-    </task>
-    <task id="LOCAL-00002" summary="[ADD] YAML">
-      <option name="closed" value="true" />
-      <created>1746451669039</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1746451669039</updated>
-    </task>
-    <task id="LOCAL-00003" summary="[ADD] .gitignore">
-      <option name="closed" value="true" />
-      <created>1746452191087</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1746452191087</updated>
-    </task>
-    <task id="LOCAL-00004" summary="[ADD] .gitignore">
-      <option name="closed" value="true" />
-      <created>1746452313906</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1746452313906</updated>
-    </task>
-    <task id="LOCAL-00005" summary="[ADD] .gitignore">
-      <option name="closed" value="true" />
-      <created>1746454940949</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1746454940949</updated>
-    </task>
-    <task id="LOCAL-00006" summary="[MODIFY] spring projet// backend module">
-      <option name="closed" value="true" />
-      <created>1746611175536</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1746611175536</updated>
-    </task>
-    <task id="LOCAL-00007" summary="[DELETE] former version">
-      <option name="closed" value="true" />
-      <created>1746611206721</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1746611206721</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="UnknownFeatures">
-    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial commit" />
-    <MESSAGE value="[ADD] YAML" />
-    <MESSAGE value="[ADD] .gitignore" />
-    <MESSAGE value="[MODIFY] spring projet// backend module" />
-    <MESSAGE value="[DELETE] former version" />
-    <option name="LAST_COMMIT_MESSAGE" value="[DELETE] former version" />
   </component>
 </project>
