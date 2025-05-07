@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="369871e1-d938-4a89-ac05-47de62fdc822" name="Changes" comment="[DELETE] former version" />
+    <list default="true" id="369871e1-d938-4a89-ac05-47de62fdc822" name="Changes" comment="[DELETE] former version">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,15 +64,16 @@
     "Spring Boot.OverlookHotelApplication.executor": "Run",
     "git-widget-placeholder": "bv",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/drvba/OneDrive/Documents/Dev/overlook_hotel",
+    "last_opened_file_path": "C:/Users/drvba/OneDrive/Documents/Dev/overlook_hotel/frontend",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "npm.start.executor": "Run",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
     "vue.rearranger.settings.migration": "true"
   }
@@ -82,7 +87,7 @@
   </component>
   <component name="RunManager">
     <configuration name="OverlookHotelApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="overlook_hotel" />
+      <module name="backend" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.projet.overlook_hotel.OverlookHotelApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
